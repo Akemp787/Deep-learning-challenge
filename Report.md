@@ -16,11 +16,9 @@ The purpose of this analysis is to develop a deep learning model that predicts t
 - **Steps to Increase Model Performance:** We attempted various strategies to improve model performance, including adjusting the number of neurons and layers, trying different activation functions, and scaling the input data using StandardScaler. Despite these efforts, the model accuracy remained relatively constant.
 
 
-![Attempt 1](https://drive.google.com/file/d/1HKNscHNRT-jj5QEMWWO1hO8zsJi4hwGf/view?usp=sharing)
-
-![Attempt 2](https://drive.google.com/file/d/1y7z-2coMZQaLYisGhTA5qYuCFlZqTFHB/view?usp=sharing)
-
-![Attempt 3](https://drive.google.com/file/d/1FyjPj1j-xyqkOtwQi4JSKnd3NCeOD5fF/view?usp=sharing)
+![Attempt_1](https://github.com/Akemp787/Deep-learning-challenge/assets/146573396/d43d5cc6-107a-4188-aff5-4cfb1e773853)
+![Attempt_2](https://github.com/Akemp787/Deep-learning-challenge/assets/146573396/ae08f4a6-56a1-4a8b-9142-166335916206)
+![Attempt_3](https://github.com/Akemp787/Deep-learning-challenge/assets/146573396/a56cb0c4-5366-44a3-a0b5-6fbbe5aa1855)
 
 
 
